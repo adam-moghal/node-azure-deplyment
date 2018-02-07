@@ -6,7 +6,7 @@ const handler = (req, res) => {
 
 console.log ("server request recieved");
 
-res.end('HELLO WORLD FROM AZURE GIT!');
+res.end('HELLO WORLD FROM GITHUB!');
 
 }
 
